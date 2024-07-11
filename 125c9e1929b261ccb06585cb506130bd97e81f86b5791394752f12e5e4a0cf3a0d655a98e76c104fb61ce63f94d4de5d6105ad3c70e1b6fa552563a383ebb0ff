@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en" data-critters-container>
+<head>
+  <meta charset="utf-8">
+  <title>Mink</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap'"> -->
+  <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/exyted1/assets/main/logo/logo.png">
+<style>@font-face{font-family:Poppins;src:url("./media/Poppins-Regular-JNHL4IDV.ttf")}*{font-family:Poppins,sans-serif}body{background:#020024;margin:0;display:flex;flex-direction:column;min-height:100vh;background:linear-gradient(90deg,#1b013b,#1b0370 150%,#050117);font-family:Poppins,sans-serif}
+</style><link rel="stylesheet" href="styles-CWHSXKQB.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-CWHSXKQB.css"></noscript></head>
+<body>
+  <app-root></app-root>
+<script src="polyfills-6EAL64PA.js" type="module"></script><script src="main-SW7SWHSK.js" type="module"></script></body>
+</html>
